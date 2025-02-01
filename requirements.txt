@@ -1,0 +1,8 @@
+pydantic~=2.10.6
+fastapi~=0.115.7
+pydantic-settings~=2.7.1
+PyJWT~=2.10.1
+SQLAlchemy~=2.0.37
+alembic~=1.14.1
+requests~=2.32.3
+passlib~=1.7.4
